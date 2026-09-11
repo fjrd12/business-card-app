@@ -120,8 +120,8 @@ export default async function Home() {
           <a href="https://github.com" target="_blank" className="w-full py-3 px-4 bg-emerald-600 rounded-lg border border-emerald-500 hover:bg-emerald-500 transition">
             GitHub
           </a>
-          <a href="https://linkedin.com" target="_blank" className="w-full py-3 px-4 bg-yellow-400 rounded-lg border border-yellow-300 hover:bg-yellow-300 transition text-gray-900">
-            https://www.linkedin.com/in/francisco-rodriguez-89252515/
+          <a href="https://www.linkedin.com/in/francisco-rodriguez-89252515/" target="_blank" className="w-full py-3 px-4 bg-yellow-400 rounded-lg border border-yellow-300 hover:bg-yellow-300 transition text-gray-900">
+            LinkedIn
           </a>
 
           <form action={submitToCap}>
