@@ -109,10 +109,10 @@ export default async function Home() {
 
         {/* Profile Image placeholder */}
         <div className="w-24 h-24 bg-blue-500 rounded-full mx-auto mb-4 flex items-center justify-center font-bold text-2xl">
-          JD
+          JF
         </div>
         
-        <h1 className="text-2xl font-bold">John Doe</h1>
+        <h1 className="text-2xl font-bold">Francisco Rodriguez</h1>
         <p className="text-slate-400 mb-6">Full Stack Developer</p>
         
         {/* Action Buttons */}
@@ -121,7 +121,7 @@ export default async function Home() {
             GitHub
           </a>
           <a href="https://linkedin.com" target="_blank" className="w-full py-3 px-4 bg-yellow-400 rounded-lg border border-yellow-300 hover:bg-yellow-300 transition text-gray-900">
-            LinkedIn
+            https://www.linkedin.com/in/francisco-rodriguez-89252515/
           </a>
 
           <form action={submitToCap}>
